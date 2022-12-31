@@ -17,7 +17,7 @@
 
 <a href="https://github.com/Kanishka-08">  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png" width="50" height="50" alt="github"> </a>
 <a href="https://twitter.com/Ardent_630">  <img align="center" src="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c53e.png" width="50" height="50" alt="twitter"> </a>
-<a href="https://www.instagram.com/ka.nishka6020//"><img align="center" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" width="50" height="50" alt="instagram"></img></a>
+<a href="https://www.instagram.com/ka.nishka6020/"><img align="center" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" width="50" height="50" alt="instagram"></img></a>
 <a href="https://www.linkedin.com/in/kanishka-saini-ks04/"><img align="center" src="https://logos-world.net/wp-content/uploads/2020/04/Linkedin-Logo.png" width="50" height="50" alt="linkedin"></a>
 </center>
 
