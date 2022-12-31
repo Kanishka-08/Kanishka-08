@@ -1,6 +1,8 @@
-<img align="center" src="https://i.pinimg.com/originals/b9/37/12/b9371273ae94a946e92074d1b9696680.gif" width="65" height="65" alt="gif">
+
 <h1 align="center">Hi 👋, I'm Kanishka Saini</h1>
 <h3 align="center">A passionate coder from India</h3>
+<img align="center" src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" width="400" height="300" alt="girl coding img" >
+
 
 
 - 🌱 I’m currently learning **Python ,Web Development**
