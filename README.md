@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Kanishka Saini</h1>
 <h3 align="center">A passionate coder from India</h3>
-<img align="centre" src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" width="100" height="500" alt="girl coding img" >
+<img align="centre" src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" width="10000" height="300" alt="girl coding img" >
 
 
 <center>
