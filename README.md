@@ -5,9 +5,9 @@
 
 
 <center>
-- 🌱 I’m currently learning **Python ,Web Development**
+- 🌱 I’m currently learning **C++ ,Web Development**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **DSA**
 
 - 📫 How to reach me **ardent630@gmail.com**
 
